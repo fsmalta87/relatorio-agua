@@ -1,19 +1,19 @@
 ---
 NARRAÇÃO
 🔴 SITUAÇÃO CRÍTICA  
-1. Regional Centro, Lajeado, Vazamento identificado, 4.320 ligações, normalização prevista para 07/09/2026 12:30.  
-2. Regional Centro, Cachoeira do Sul, Vazamento identificado, 3.796 ligações, normalização prevista para 07/09/2026 13:00.  
-3. Regional Centro, Venâncio Aires, Manutenção Corretiva, 1.355 ligações, normalização prevista para 07/09/2026 13:00.  
+1. Lagoa dos Patos, categoria Manutenção Corretiva - Adutora, 12.246 ligações afetadas, previsão normalização 07/09/2026 23:00.  
+2. Santa Maria (CENTRO), Manutenção Corretiva - Rede de abastecimento, 2.858 ligações, previsão 07/09/2026 18:00.  
+3. Gramado (NORTE), Manutenção Corretiva - Rede de abastecimento, 2.479 ligações, previsão 07/09/2026 16:30.  
 
 📅 EVENTOS PROGRAMADOS  
-Não há eventos programados listados nos dados fornecidos.  
+Nenhum evento programado informado nos dados fornecidos.  
 
 ✅ CONCLUÍDOS RECENTEMENTE  
-Não há eventos finalizados listados nos dados fornecidos.  
+Nenhum evento finalizado informado nos dados fornecidos.  
 
 📋 LEITURA EXECUTIVA  
-A regional Centro é a mais crítica, concentrando os maiores impactos em ligações. Recomenda-se priorizar recursos para acelerar a normalização dos vazamentos e manutenções em andamento.
+A regional mais crítica é a NORTE, devido ao alto impacto em Lagoa dos Patos e Gramado. Recomenda-se priorizar recursos para acelerar a recuperação da adutora em Lagoa dos Patos.
 
 ---
 DADOS
-[{"id":1375426,"categoria":"Vazamento identificado na região causando oscilação no abastecimento","status":"Em Andamento","municipio":"Lajeado","dt_inicio":"07/09/2026 00:30:00","dt_inicio_rec":"07/09/2026 12:00:00","dt_fim_rec":"07/09/2026 12:30:00","ligacoes":4320,"regional":"CENTRO"},{"id":1375460,"categoria":"Manutenção Corretiva - Rede de abastecimento","status":"Em Andamento","municipio":"Venâncio Aires","dt_inicio":"07/09/2026 08:30:00","dt_inicio_rec":"07/09/2026 12:00:00","dt_fim_rec":"07/09/2026 13:00:00","ligacoes":1355,"regional":"CENTRO"},{"id":1375463,"categoria":"Manutenção Corretiva - Rede de abastecimento","status":"Em Andamento","municipio":"Garibaldi","dt_inicio":"07/09/2026 10:00:00","dt_inicio_rec":"07/09/2026 17:30:00","dt_fim_rec":"07/09/2026 18:00:00","ligacoes":270,"regional":"NORTE"},{"id":1375733,"categoria":"Vazamento identificado na região causando oscilação no abastecimento","status":"Em Andamento","municipio":"Cachoeira do Sul","dt_inicio":"07/09/2026 09:00:00","dt_inicio_rec":"07/09/2026 12:00:00","dt_fim_rec":"07/09/2026 13:00:00","ligacoes":3796,"regional":"CENTRO"},{"id":1375749,"categoria":"Vazamento identificado na região causando oscilação no abastecimento","status":"Em Andamento","municipio":"Gramado","dt_inicio":"07/09/2026 09:00:00","dt_inicio_rec":"07/09/2026 11:30:00","dt_fim_rec":"07/09/2026 12:00:00","ligacoes":358,"regional":"NORTE"},{"id":1375750,"categoria":"Manutenção Corretiva - Adutora","status":"Em Andamento","municipio":"Canela","dt_inicio":"07/09/2026 09:00:00","dt_inicio_rec":"07/09/2026 12:00:00","dt_fim_rec":"07/09/2026 15:00:00","ligacoes":220,"regional":null},{"id":1376055,"categoria":"Manutenção Corretiva - Rede de abastecimento","status":"Em Andamento","municipio":"Santiago","dt_inicio":"07/09/2026 10:30:00","dt_inicio_rec":"07/09/2026 13:30:00","dt_fim_rec":"07/09/2026 14:00:00","ligacoes":63,"regional":"OESTE"},{"id":1375778,"categoria":"Manutenção Corretiva - Rede de abastecimento","status":"Em Andamento","municipio":"Bento Gonçalves","dt_inicio":"07/09/2026 09:00:00","dt_inicio_rec":"07/09/2026 12:00:00","dt_fim_rec":"07/09/2026 17:00:00","ligacoes":1094,"regional":"NORTE"}]
+[{"id":1376075,"categoria":"Manutenção Corretiva - Rede de abastecimento","status":"Em Andamento","municipio":"Gramado","dt_inicio":"07/09/2026 13:30:00","dt_inicio_rec":"07/09/2026 16:00:00","dt_fim_rec":"07/09/2026 16:30:00","ligacoes":2479,"regional":"NORTE"},{"id":1376076,"categoria":"Manutenção Corretiva - Rede de abastecimento","status":"Em Andamento","municipio":"Santa Maria","dt_inicio":"07/09/2026 13:45:00","dt_inicio_rec":"07/09/2026 17:00:00","dt_fim_rec":"07/09/2026 18:00:00","ligacoes":2858,"regional":"CENTRO"},{"id":1376077,"categoria":"Vazamento identificado na região causando oscilação no abastecimento","status":"Em Andamento","municipio":"Panambi","dt_inicio":"07/09/2026 15:30:00","dt_inicio_rec":"07/09/2026 19:15:00","dt_fim_rec":"07/09/2026 22:45:00","ligacoes":1143,"regional":"CENTRO"},{"id":1375760,"categoria":"Manutenção Corretiva - Rede de abastecimento","status":"Em Andamento","municipio":"Passo Fundo","dt_inicio":"07/09/2026 14:30:00","dt_inicio_rec":"07/09/2026 16:30:00","dt_fim_rec":"07/09/2026 17:15:00","ligacoes":482,"regional":"NORTE"},{"id":1375463,"categoria":"Manutenção Corretiva - Rede de abastecimento","status":"Em Andamento","municipio":"Garibaldi","dt_inicio":"07/09/2026 10:00:00","dt_inicio_rec":"07/09/2026 17:30:00","dt_fim_rec":"07/09/2026 18:00:00","ligacoes":270,"regional":"NORTE"},{"id":1375737,"categoria":"Manutenção Corretiva - Adutora","status":"Em Andamento","municipio":"Lagoa dos Patos","dt_inicio":"07/09/2026 12:00:00","dt_inicio_rec":"07/09/2026 21:00:00","dt_fim_rec":"07/09/2026 23:00:00","ligacoes":12246,"regional":null}]
